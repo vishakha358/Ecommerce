@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.section__container .banner__containner {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
